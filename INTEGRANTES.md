@@ -9,3 +9,7 @@
 . André Peixoto Cano - RM570429 
 
 . Leonardo Yuiti Hidifira - RM569519
+
+## Link do GitHub Pages
+
+https://leohidifira.github.io/CP2-Front_end/
